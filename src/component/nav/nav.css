@@ -1,0 +1,51 @@
+
+.navbar{
+    background-color:rgb(3, 163, 238);
+     height: auto;
+   margin-right: auto !important;
+   min-height: 70px;
+
+}
+
+.logo {
+    width: 70px;
+    height: 40px;
+    margin: 5px 10px 5px 10px !important;
+  }
+  .brand{
+    color: aliceblue !important;
+    font-weight: bold ;
+    font-size:xx-large !important;
+  }
+
+.formhead{
+ background-color:rgb(53, 114, 239);
+}
+.COLOR {
+  color: aliceblue !important;
+  font-size: larger;
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: 600 !important;
+  
+}
+.COLOR:hover{
+  color: rgb(10, 131, 237) !important;
+ 
+}
+.navbar-nav {
+  margin-left: 20px !important;
+}
+
+.ADD{
+  color: aliceblue !important;
+  size: 500px !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+.ADD:hover{
+  color: rgb(10, 131, 237) !important;
+}
+.LOGOUT{
+  margin-top: 10px !important;
+}
